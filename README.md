@@ -16,7 +16,6 @@ Bem-vindo ao **Galleria**, uma galeria de fotos estilosa construída com HTML, C
 - **Sass (SCSS)** 💎: Pré-processador de CSS que melhora a organização e manutenção do código.
 - **JavaScript** 💻: Scripts para acessibilidade e interações dinâmicas.
 - **Font Awesome** 🎥: Ícones para redes sociais.
-- **Google Fonts** ✍️: Tipografia personalizada com a fonte _Josefin Sans_.
 
 ## 🚀 Pré-processamento com Sass
 
